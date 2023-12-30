@@ -1,4 +1,3 @@
-# Leah Alcaraz 301279925
 
 input_name = []
 input_age = []
